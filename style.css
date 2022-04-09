@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+/*
+Theme Name: S.B
+Theme URI: https://github.com/kimo-works/SB-WordPress-case
+Author: Karim Siam
+Author URI: https://github.com/kimo-works
+Description: In this case you will make your own pixel perfect WordPress web theme. You don’t have to use an existing theme in WordPress. There is a lot of information about the designs in the InVision link like, Fonts, pixels, etc. In addition, there is a piece of your own interpretation in which we expect you to be able to make new parts for the website based on the style of the design. The website has to be responsive and user friendly. Use WordPress core functions as much as possible. Plugins are not allowed.
+Requires at least: 5.3
+Tested up to: 5.9
+Requires PHP: 5.6
+Version: 0.1
+Text Domain: twentytwentyone
+Tags: one-column, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+*/
+
+/**
+ * SETTINGS
+ * File-header..........The file header for the themes style.css file.
+ * Fonts................Any font files, if the project needs specific fonts.
+ * Global...............Project-specific, globally available variables.
+ *
+ */
+
+/* Categories 01 to 03 are the basics. */
+
